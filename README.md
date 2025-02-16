@@ -60,7 +60,7 @@ We have developed a machine learning model that can automatically colorize grays
 - JavaScript
 - Django
 
-Our machine learning model for colorization:
+## Our machine learning model for colorization:
 
 - Convolutional Neural Networks (CNNs)
 - Generative Adversarial Networks (GANs)
